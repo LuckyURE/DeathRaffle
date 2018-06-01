@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/BrokerService_Tests.csproj",
+    "projectName": "BrokerService_Tests",
+    "projectPath": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/BrokerService_Tests.csproj",
+    "outputPath": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/BrokerService.csproj": {
+            "projectPath": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/BrokerService.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Shouldly": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

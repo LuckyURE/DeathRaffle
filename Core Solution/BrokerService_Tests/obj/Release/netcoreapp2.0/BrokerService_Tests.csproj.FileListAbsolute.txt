@@ -1,0 +1,14 @@
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/bin/Release/netcoreapp2.0/BrokerService_Tests.deps.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/bin/Release/netcoreapp2.0/BrokerService_Tests.runtimeconfig.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/bin/Release/netcoreapp2.0/BrokerService_Tests.runtimeconfig.dev.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/bin/Release/netcoreapp2.0/BrokerService_Tests.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/bin/Release/netcoreapp2.0/BrokerService_Tests.pdb
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/bin/Release/netcoreapp2.0/BrokerService.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/bin/Release/netcoreapp2.0/Repository.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/bin/Release/netcoreapp2.0/BrokerService.pdb
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/bin/Release/netcoreapp2.0/Repository.pdb
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/obj/Release/netcoreapp2.0/BrokerService_Tests.csproj.CoreCompileInputs.cache
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/obj/Release/netcoreapp2.0/BrokerService_Tests.AssemblyInfoInputs.cache
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/obj/Release/netcoreapp2.0/BrokerService_Tests.AssemblyInfo.cs
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/obj/Release/netcoreapp2.0/BrokerService_Tests.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService_Tests/obj/Release/netcoreapp2.0/BrokerService_Tests.pdb

@@ -1,0 +1,12 @@
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/bin/Debug/netcoreapp2.0/CelebScraper.deps.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/bin/Debug/netcoreapp2.0/CelebScraper.runtimeconfig.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/bin/Debug/netcoreapp2.0/CelebScraper.runtimeconfig.dev.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/bin/Debug/netcoreapp2.0/CelebScraper.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/bin/Debug/netcoreapp2.0/CelebScraper.pdb
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/bin/Debug/netcoreapp2.0/Repository.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/bin/Debug/netcoreapp2.0/Repository.pdb
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/obj/Debug/netcoreapp2.0/CelebScraper.csproj.CoreCompileInputs.cache
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/obj/Debug/netcoreapp2.0/CelebScraper.AssemblyInfoInputs.cache
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/obj/Debug/netcoreapp2.0/CelebScraper.AssemblyInfo.cs
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/obj/Debug/netcoreapp2.0/CelebScraper.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/obj/Debug/netcoreapp2.0/CelebScraper.pdb

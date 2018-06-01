@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Repository/Repository.csproj",
+    "projectName": "Repository",
+    "projectPath": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Repository/Repository.csproj",
+    "outputPath": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Repository/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Dapper": {
+          "target": "Package",
+          "version": "[1.50.4, )"
+        },
+        "Dapper.Contrib": {
+          "target": "Package",
+          "version": "[1.50.4, )"
+        },
+        "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+          "target": "Package",
+          "version": "[2.0.1, )"
+        },
+        "Microsoft.Data.Sqlite": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

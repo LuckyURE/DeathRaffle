@@ -1,0 +1,14 @@
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/bin/Release/netcoreapp2.0/BrokerService.deps.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/bin/Release/netcoreapp2.0/BrokerService.runtimeconfig.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/bin/Release/netcoreapp2.0/BrokerService.runtimeconfig.dev.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/bin/Release/netcoreapp2.0/BrokerService.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/bin/Release/netcoreapp2.0/BrokerService.pdb
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/bin/Release/netcoreapp2.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/bin/Release/netcoreapp2.0/Repository.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/bin/Release/netcoreapp2.0/Repository.pdb
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/bin/Release/netcoreapp2.0/Microsoft.AspNetCore.Http.Abstractions.xml
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/obj/Release/netcoreapp2.0/BrokerService.csproj.CoreCompileInputs.cache
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/obj/Release/netcoreapp2.0/BrokerService.AssemblyInfoInputs.cache
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/obj/Release/netcoreapp2.0/BrokerService.AssemblyInfo.cs
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/obj/Release/netcoreapp2.0/BrokerService.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/BrokerService/obj/Release/netcoreapp2.0/BrokerService.pdb

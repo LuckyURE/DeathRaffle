@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_DeathRaffle.332943241.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BrokerService" t="IncludeRecursive">
+        <e p="AppSettings.cs" t="Include" />
+        <e p="BrokerService.csproj" t="IncludeRecursive" />
+        <e p="EventStreamer" t="Include">
+          <e p="DisconnectEventArgs.cs" t="Include" />
+          <e p="EventSourceMessageEventArgs.cs" t="Include" />
+          <e p="EventSourceReader.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="PaymentStreamResponse.cs" t="Include" />
+          <e p="TickerReponse.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="StellarClient.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="BrokerService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BrokerService_Tests" t="IncludeRecursive">
+        <e p="BrokerService_Tests.csproj" t="IncludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="BrokerService_Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="CelebScraper" t="IncludeRecursive">
+        <e p="BrowserSession.cs" t="Include" />
+        <e p="CelebScraper.csproj" t="IncludeRecursive" />
+        <e p="FormElementCollection.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Record.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="CelebScraper.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DeathRaffle.sln" t="IncludeFlat" />
+      <e p="Repository" t="IncludeRecursive">
+        <e p="DatabaseUtils.cs" t="Include" />
+        <e p="HelperModels" t="Include">
+          <e p="AdminDashboardPools.cs" t="Include" />
+          <e p="AppInfo.cs" t="Include" />
+          <e p="AvailablePoolByPlayer.cs" t="Include" />
+          <e p="AvailablePoolCelebrity.cs" t="Include" />
+          <e p="DashboardPool.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Celebrity.cs" t="Include" />
+          <e p="Pool.cs" t="Include" />
+          <e p="Ticket.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+          <e p="Wallet.cs" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="AppInfoRepository.cs" t="Include" />
+          <e p="CelebrityRepository.cs" t="Include" />
+          <e p="PoolRepository.cs" t="Include" />
+          <e p="TicketRepository.cs" t="Include" />
+          <e p="WalletsRepository.cs" t="Include" />
+        </e>
+        <e p="Repository.csproj" t="IncludeRecursive" />
+        <e p="RepositorySettings.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Repository.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Tests" t="Include" />
+      <e p="Web" t="IncludeRecursive">
+        <e p="AppSettings.cs" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="AppInfoController.cs" t="Include" />
+          <e p="AuthController.cs" t="Include" />
+          <e p="CelebrityController.cs" t="Include" />
+          <e p="Models" t="Include">
+            <e p="AdminDashboardPoolsResult.cs" t="Include" />
+            <e p="AppInfoResult.cs" t="Include" />
+            <e p="CustomerMessage.cs" t="Include" />
+            <e p="PoolDashboardResult.cs" t="Include" />
+            <e p="TicketSearchResult.cs" t="Include" />
+          </e>
+          <e p="PoolController.cs" t="Include" />
+          <e p="TicketController.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="Web.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Web.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

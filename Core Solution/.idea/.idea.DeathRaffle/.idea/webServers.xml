@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="51e97df6-5db7-415f-affd-8526a1a0640a" name="Vultr - Production" url="http://www.deathraffle.com">
+        <fileTransfer host="bypass.deathraffle.com" port="22" rootFolder="/srv/aspnet" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

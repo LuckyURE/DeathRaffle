@@ -1,0 +1,12 @@
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/bin/Release/netcoreapp2.0/Web.deps.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/bin/Release/netcoreapp2.0/Web.runtimeconfig.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/bin/Release/netcoreapp2.0/Web.runtimeconfig.dev.json
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/bin/Release/netcoreapp2.0/Web.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/bin/Release/netcoreapp2.0/Web.pdb
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/bin/Release/netcoreapp2.0/Repository.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/bin/Release/netcoreapp2.0/Repository.pdb
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/obj/Release/netcoreapp2.0/Web.csproj.CoreCompileInputs.cache
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/obj/Release/netcoreapp2.0/Web.AssemblyInfoInputs.cache
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/obj/Release/netcoreapp2.0/Web.AssemblyInfo.cs
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/obj/Release/netcoreapp2.0/Web.dll
+/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/obj/Release/netcoreapp2.0/Web.pdb

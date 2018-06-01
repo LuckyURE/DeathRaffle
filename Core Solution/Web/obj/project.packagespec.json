@@ -1,0 +1,75 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/Web.csproj",
+    "projectName": "Web",
+    "projectPath": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/Web.csproj",
+    "outputPath": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Web/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Repository/Repository.csproj": {
+            "projectPath": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Repository/Repository.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "FluentCommandLineParser-netstandard": {
+          "target": "Package",
+          "version": "[1.4.3.13, )"
+        },
+        "MailKit": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.AspNet.WebApi.Cors": {
+          "target": "Package",
+          "version": "[5.2.4, )"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.0.6, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Serilog": {
+          "target": "Package",
+          "version": "[2.6.0, )"
+        },
+        "Serilog.Sinks.RollingFile": {
+          "target": "Package",
+          "version": "[3.3.0, )"
+        },
+        "stellar-dotnetcore-sdk": {
+          "target": "Package",
+          "version": "[1.0.3, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

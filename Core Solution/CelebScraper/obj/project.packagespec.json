@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/CelebScraper.csproj",
+    "projectName": "CelebScraper",
+    "projectPath": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/CelebScraper.csproj",
+    "outputPath": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/CelebScraper/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Repository/Repository.csproj": {
+            "projectPath": "/home/joshua/Desktop/DeathRaffle/Code/DeathRaffle/Repository/Repository.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "BinaryFog.NameParser": {
+          "target": "Package",
+          "version": "[2.3.0, )"
+        },
+        "FileHelpers": {
+          "target": "Package",
+          "version": "[3.2.7, )"
+        },
+        "HtmlAgilityPack": {
+          "target": "Package",
+          "version": "[1.7.2, )"
+        },
+        "Microsoft.AspNetCore.Hosting.Server.Abstractions": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
